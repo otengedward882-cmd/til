@@ -52,3 +52,6 @@ Criterion.rs microbenchmarking for measuring parser regressions across git commi
 
 ### 2026-09-09 &middot; `[GO]`
 Table-driven unit testing patterns for matrix-based statistical algorithms
+
+### 2026-09-10 &middot; `[EVAL]`
+Cohen's Kappa vs Fleiss' Kappa: choosing the right statistic for annotator panels
