@@ -58,3 +58,6 @@ Cohen's Kappa vs Fleiss' Kappa: choosing the right statistic for annotator panel
 
 ### 2026-09-10 &middot; `[PYTHON]`
 Context manager tricks for deterministic test environments and file locking
+
+### 2026-09-11 &middot; `[RUST]`
+Zero-copy JSON parsing with serde_json::from_slice for streaming buffers
