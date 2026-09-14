@@ -70,3 +70,6 @@ OWASP LLM01: Prompt injection boundary tokenization and delimiter hardening
 
 ### 2026-09-13 &middot; `[RUST]`
 Memory layout of Vec<T> vs Box<[T]> when caching tokenized embeddings
+
+### 2026-09-14 &middot; `[PYTHON]`
+AST node visitor patterns for detecting deprecated positional arguments in OpenAPI specs
