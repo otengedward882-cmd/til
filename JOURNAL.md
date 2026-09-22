@@ -115,3 +115,6 @@ Table-driven unit testing patterns for matrix-based statistical algorithms
 
 ### 2026-09-22 &middot; `[EVAL]`
 Cohen's Kappa vs Fleiss' Kappa: choosing the right statistic for annotator panels
+
+### 2026-09-22 &middot; `[PYTHON]`
+Context manager tricks for deterministic test environments and file locking
