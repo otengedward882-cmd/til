@@ -121,3 +121,6 @@ Context manager tricks for deterministic test environments and file locking
 
 ### 2026-09-23 &middot; `[RUST]`
 Zero-copy JSON parsing with serde_json::from_slice for streaming buffers
+
+### 2026-09-23 &middot; `[GO]`
+Calculating Fleiss' Kappa across m raters using fixed category distribution matrices
