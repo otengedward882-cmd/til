@@ -133,3 +133,6 @@ Memory layout of Vec<T> vs Box<[T]> when caching tokenized embeddings
 
 ### 2026-09-25 &middot; `[PYTHON]`
 AST node visitor patterns for detecting deprecated positional arguments in OpenAPI specs
+
+### 2026-09-25 &middot; `[GO]`
+Worker pool concurrency patterns for parallel dataset line validation in Go
