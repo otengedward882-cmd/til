@@ -136,3 +136,6 @@ AST node visitor patterns for detecting deprecated positional arguments in OpenA
 
 ### 2026-09-25 &middot; `[GO]`
 Worker pool concurrency patterns for parallel dataset line validation in Go
+
+### 2026-09-26 &middot; `[EVAL]`
+Inter-annotator agreement thresholds: Landis & Koch interpretation of Kappa coefficients
