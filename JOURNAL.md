@@ -205,3 +205,6 @@ Signing Git commits with SSH keys and configuring global gpg.format
 
 ### 2026-10-09 &middot; `[TYPESCRIPT]`
 Leveraging Node.js performance hooks (perf_hooks) for microsecond API latency telemetry
+
+### 2026-10-09 &middot; `[RUST]`
+Using memmap2 for instantaneous disk-to-memory streaming of 10GB+ JSONL datasets
