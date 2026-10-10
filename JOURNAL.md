@@ -208,3 +208,6 @@ Leveraging Node.js performance hooks (perf_hooks) for microsecond API latency te
 
 ### 2026-10-09 &middot; `[RUST]`
 Using memmap2 for instantaneous disk-to-memory streaming of 10GB+ JSONL datasets
+
+### 2026-10-10 &middot; `[LLM]`
+System prompt extraction defense: Canary tokens and negative constraints in evaluation harnesses
