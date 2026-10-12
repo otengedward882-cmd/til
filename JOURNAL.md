@@ -214,3 +214,6 @@ System prompt extraction defense: Canary tokens and negative constraints in eval
 
 ### 2026-10-11 &middot; `[GO]`
 Buffered channels vs sync.Pool for minimizing GC pause times in high-throughput CLI scoring
+
+### 2026-10-12 &middot; `[PYTHON]`
+Leveraging difflib.SequenceMatcher for fuzzy matching duplicate prompts in RLHF corpora
