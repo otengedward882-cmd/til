@@ -220,3 +220,6 @@ Leveraging difflib.SequenceMatcher for fuzzy matching duplicate prompts in RLHF 
 
 ### 2026-10-12 &middot; `[EVAL]`
 Pairwise evaluation metrics: Bradley-Terry preference modeling for human annotators
+
+### 2026-10-13 &middot; `[DOCKER]`
+Multi-stage scratch builds for static Rust binaries under 15MB
