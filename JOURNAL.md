@@ -244,3 +244,6 @@ Zero-copy JSON parsing with serde_json::from_slice for streaming buffers
 
 ### 2026-10-16 &middot; `[GO]`
 Calculating Fleiss' Kappa across m raters using fixed category distribution matrices
+
+### 2026-10-17 &middot; `[LLM]`
+OWASP LLM01: Prompt injection boundary tokenization and delimiter hardening
