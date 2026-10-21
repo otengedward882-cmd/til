@@ -262,3 +262,6 @@ Inter-annotator agreement thresholds: Landis & Koch interpretation of Kappa coef
 
 ### 2026-10-20 &middot; `[GIT]`
 Signing Git commits with SSH keys and configuring global gpg.format
+
+### 2026-10-21 &middot; `[TYPESCRIPT]`
+Leveraging Node.js performance hooks (perf_hooks) for microsecond API latency telemetry
