@@ -271,3 +271,6 @@ Using memmap2 for instantaneous disk-to-memory streaming of 10GB+ JSONL datasets
 
 ### 2026-10-22 &middot; `[LLM]`
 System prompt extraction defense: Canary tokens and negative constraints in evaluation harnesses
+
+### 2026-10-22 &middot; `[GO]`
+Buffered channels vs sync.Pool for minimizing GC pause times in high-throughput CLI scoring
