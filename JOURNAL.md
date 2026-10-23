@@ -277,3 +277,6 @@ Buffered channels vs sync.Pool for minimizing GC pause times in high-throughput 
 
 ### 2026-10-23 &middot; `[PYTHON]`
 Leveraging difflib.SequenceMatcher for fuzzy matching duplicate prompts in RLHF corpora
+
+### 2026-10-23 &middot; `[EVAL]`
+Pairwise evaluation metrics: Bradley-Terry preference modeling for human annotators
