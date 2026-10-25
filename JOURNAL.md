@@ -283,3 +283,6 @@ Pairwise evaluation metrics: Bradley-Terry preference modeling for human annotat
 
 ### 2026-10-24 &middot; `[DOCKER]`
 Multi-stage scratch builds for static Rust binaries under 15MB
+
+### 2026-10-25 &middot; `[TYPESCRIPT]`
+Streaming SSE (Server-Sent Events) chunk reassembly and backpressure control
