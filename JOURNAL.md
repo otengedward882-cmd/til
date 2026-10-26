@@ -286,3 +286,6 @@ Multi-stage scratch builds for static Rust binaries under 15MB
 
 ### 2026-10-25 &middot; `[TYPESCRIPT]`
 Streaming SSE (Server-Sent Events) chunk reassembly and backpressure control
+
+### 2026-10-26 &middot; `[RUST]`
+Criterion.rs microbenchmarking for measuring parser regressions across git commits
