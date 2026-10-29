@@ -307,3 +307,6 @@ Calculating Fleiss' Kappa across m raters using fixed category distribution matr
 
 ### 2026-10-29 &middot; `[LLM]`
 OWASP LLM01: Prompt injection boundary tokenization and delimiter hardening
+
+### 2026-10-29 &middot; `[RUST]`
+Memory layout of Vec<T> vs Box<[T]> when caching tokenized embeddings
