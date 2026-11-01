@@ -319,3 +319,6 @@ Worker pool concurrency patterns for parallel dataset line validation in Go
 
 ### 2026-10-31 &middot; `[EVAL]`
 Inter-annotator agreement thresholds: Landis & Koch interpretation of Kappa coefficients
+
+### 2026-11-01 &middot; `[GIT]`
+Signing Git commits with SSH keys and configuring global gpg.format
