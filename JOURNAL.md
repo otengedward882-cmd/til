@@ -349,3 +349,6 @@ Streaming SSE (Server-Sent Events) chunk reassembly and backpressure control
 
 ### 2026-11-06 &middot; `[RUST]`
 Criterion.rs microbenchmarking for measuring parser regressions across git commits
+
+### 2026-11-06 &middot; `[GO]`
+Table-driven unit testing patterns for matrix-based statistical algorithms
