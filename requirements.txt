@@ -1,0 +1,6 @@
+# No external packages required!
+# Graph-Greener relies strictly on Python 3 Standard Library modules:
+# - os
+# - random
+# - subprocess
+# - datetime
